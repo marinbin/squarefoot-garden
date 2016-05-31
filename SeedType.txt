@@ -1,0 +1,247 @@
+Beans
+Seed pods that grow vertically (pole) or low to the ground (bush).
+Pole beans require a frame to grow on.
+9
+10
+60
+70
+no
+0
+0
+0
+70
+
+Beets
+Rounded red roots and leafy greens.
+Needs constant moisture to thrive.
+9
+10
+56
+56
+no
+0
+0
+-21
+56
+
+Broccoli
+Green bunches of florets on hardy stalks.
+Needs constant moisture to thrive.
+1
+10
+63
+112
+yes
+-84
+70
+-35
+35
+
+Cabbage
+A large head of crunchy green leaves.
+Trim any leaves that overgrow square.
+1
+8
+63
+112
+yes
+-84
+42
+-35
+7
+
+Carrot
+Long orange roots with feathery green leaves.
+Needs constant moisture to thrive.
+16
+21
+70
+70
+no
+0
+0
+-21
+0
+
+Cauliflower
+Bunches of white florets.
+Harvest early as possible.
+1
+10
+56
+98
+yes
+-70
+70
+-28
+42
+
+Chard
+Broad leafy greens, with thick stems in a variety of colors.
+Water once or twice a week.
+4
+21
+56
+56
+no
+0
+0
+-21
+0
+
+Corn
+Bunches of yellow grains grown on tall stalks.
+Cover with wire netting cage until 6 inches.
+4
+10
+63
+91
+no
+0
+0
+0
+91
+
+Cucumber
+Long green fruits that grow on a vine.
+Construct a trellis & grow vertically.
+2
+10
+49
+63
+no
+0
+0
+7
+56
+
+Eggplant
+Purple egg-shaped fruits that grow on a bush.
+Requires constant moisture to thrive.
+1
+12
+70
+133
+yes
+-49
+14
+-14
+42
+
+Lettuce
+Heads of leafy greens.
+Provide shade if sun is too intense.
+4
+10
+49
+49
+no
+0
+0
+-28
+0
+
+Melon
+Round fruits with a thick rind that grow on a vine.
+Requires a trellis support; grows vertically.
+1
+10
+24
+84
+yes
+0
+70
+14
+42
+
+Parsley
+Herb with small green leaves and thin stems.
+Requires constant moisture to thrive.
+4
+15
+49
+98
+yes
+-84
+84
+-35
+36
+
+Pea
+Green seed pods that grow on a vine.
+Requires trellis support; grows vertically.
+8
+15
+70
+70
+no
+0
+0
+-35
+42
+
+Pepper
+Green, yellow and red fruits that grow on a bush.
+Cover half-grown plants with a wire mesh cage.
+1
+15
+70
+133
+yes
+-49
+133
+14
+63
+
+Radish
+Red or white rounded roots.
+Requires constant moisture to thrive.
+16
+10
+21
+28
+no
+0
+0
+-21
+0
+
+Spinach
+Bunch of dark leafy greens.
+Requires constant moisture to thrive.
+9
+14
+49
+49
+no
+0
+0
+-35
+21
+
+Tomato
+Round, red fruits that grow on a vine.
+Requires a trellis to grow vine vertically.
+1
+7
+77
+119
+yes
+-42
+119
+0
+42
+
+Winter Squash
+White, orange, and green fruits with tough rinds that grow on a vine.
+Requires a trellis to support vine; grows vertically.
+1
+10
+84
+84
+no
+0
+0
+14
+84
+

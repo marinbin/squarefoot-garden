@@ -1,0 +1,33 @@
+The following is the data stored in SeedType.txt for each plant, in the following order:
+
+Name (one line)
+
+Description (one line)
+
+Special care (one line)
+
+Plants per square (#)
+
+Days til sprout (#)
+
+Days til mature (#)
+
+Days til harvest (#)
+
+Plant indoors (yes or no)
+
+Earliest indoor (# days after last spring frost, or no)
+
+Latest indoor (# days before first fall frost, or no)
+
+Earliest outdoor (# days after last spring frost)
+
+Latest outdoor (# days before first fall frost)
+
+
+Data obtained from the book:
+
+All New Square Foot Gardening: Grow More in Less Space!
+Written by Mel Bartholomew
+Published by Cool Springs Press (2006)
+ISBN-13: 9781591862024
